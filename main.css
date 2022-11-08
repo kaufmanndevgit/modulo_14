@@ -3,12 +3,12 @@ body {
 }
 
 .navbar {
-    background-color: #e15f41;
+    background-color: #00008b;
 }
 
 #cabecalho .nav .nav-link.active {
     background-color: #fff;
-    color: #e15f41;
+    color: #00008b;
 }
 
 #cabecalho .nav .nav-link,
@@ -31,17 +31,17 @@ body {
 }
 
 .text-colored {
-    color: #e15f41;
+    color: #00008b;
 }
 
 .nav-cardapio .nav-link.active,
 #fale-conosco button {
-    background-color: #e15f41;
+    background-color: #00008b;
     color: #fff;
 }
 
 .nav-cardapio .nav-link:hover {
-    color: #e15f41;
+    color: #00008b;
 }
 
 .social-links li {
