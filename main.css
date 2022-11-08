@@ -58,3 +58,7 @@ body {
         height: 280px;
     }
 }
+
+.carousel-indicators {
+    position: static;
+}
